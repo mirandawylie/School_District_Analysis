@@ -38,12 +38,13 @@ Link to Jupyter notebook: https://github.com/mirandawylie/school_district_analys
 * The district summary % overall passing went from 65.17% to 64.9%
 * The school summary stays the same except for the results of Thomas High School. 
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-    - Even with the refactored results, Thomas High School still ranks second, however the overall passing percentage changed from 90.94% to 90.63%
+    - Even with the refactored results, Thomas High School still ranks second however Thomas High School's % passing math, % passing reading and % overall passing changed
     ![Thomas_HS_scores.png](images/Thomas_HS_scores.png)
     ![Thomas_HS_scores_refactored.png](images/Thomas_HS_scores_refactored.png)
-* How does replacing the ninth-grade scores affect the math and reading scores by grade
-    - The math and reading scores by grade stays the same except one will notice “nan” listed for Thomas 8th grade scores.
-    ![math_scores.png](images/math_scores.png)
+* How does replacing the ninth grade scores affect the math and reading scores by grade
+    - The math and reading scores by grade stays the same
+    - Note “nan” listed for Thomas ninth grade scores
+    ![math_scores.png](images/math_scores.png) 
     ![match_scores_refactored.png](images/math_scores_refactored.png)
 * How does replacing the ninth-grade scores the following:
     - scores by school spending - not affected
@@ -51,4 +52,4 @@ Link to Jupyter notebook: https://github.com/mirandawylie/school_district_analys
     - scores by school type - not affected
 
 ## Summary
-After the Thomas High School eight grade reading and math scores were replaced the % overall passing in the district summary decreased. The school summary stayed the same except for the results of Thomas High School which had changes to the % passing math, % passing reading and % overall passing. The top and bottom school rankings stayed the same, however the ranking of Thomas High School slightly decreased. The scores by school spending, school size, and school type remained the same.
+After the Thomas High School ninth grade reading and math scores were replaced the % overall passing in the district summary decreased. The school summary stayed the same except for the results of Thomas High School which had changes to the % passing math, % passing reading and % overall passing. The top and bottom school rankings stayed the same, however the ranking of Thomas High School slightly decreased. The scores by school spending, school size, and school type remained the same.

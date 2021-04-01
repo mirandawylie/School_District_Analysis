@@ -1,3 +1,6 @@
+#Miranda's files to ignore
+module_work/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

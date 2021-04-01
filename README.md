@@ -30,6 +30,8 @@ Link to Jupyter notebook: https://github.com/mirandawylie/school_district_analys
 * Average reading score for each grade level from each school
 ![reading_scores_by_grade](images/reading_scores_by_grade.png)
 
+* Scores by school spending per student
+![scores_by_spending.png](images/scores_by_spending.png)
 * Scores by school spending per student, by school size
 ![scores_by_school_size.png](images/scores_by_school_size.png)
 * Scores by school spending per student by school type
@@ -42,11 +44,11 @@ Link to Jupyter notebook: https://github.com/mirandawylie/school_district_analys
     - Even with the refactored results, Thomas High School still ranks second however Thomas High School's % passing math, % passing reading and % overall passing changed.
     ![Thomas_HS_scores.png](images/Thomas_HS_scores.png)
     ![Thomas_HS_scores_refactored.png](images/Thomas_HS_scores_refactored.png)
-* How did replacing the ninth grade scores affect the math and reading scores by grade
-    - The math and reading scores by grade stays the same except “nan” listed for Thomas ninth grade
+* How did replacing the ninth grade scores affect the math and reading scores by grade?
+    - The scores by grade stayed the same except “nan” listed for Thomas ninth grade.
     ![math_scores.png](images/math_scores.png) 
     ![match_scores_refactored.png](images/math_scores_refactored.png)
-* How did replacing the ninth-grade scores the following:
+* How did replacing the ninth-grade scores the following?:
     - Scores by school spending - not affected
     - Scores by school size - not affected
     - Scores by school type - not affected
